@@ -8,7 +8,7 @@ export default function Home() {
           <h1 className="text-5xl md:text-5xl font-bold text-black">
           Smart Designs, Smarter Code
           </h1>
-          <p className="mt-6 text-lg md:text-md text-black">
+          <p className="mt-6 text-xl md:text-md text-black">
           Frontend Developer | React Specialist | UI/UX Enthusiast
           </p>
           <div className="flex items-center justify-center gap-4 mt-5">
